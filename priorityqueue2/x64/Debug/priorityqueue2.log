@@ -1,6 +1,0 @@
-﻿  priorityqueue2.cpp
-E:\contests div 4\round 886\contest div 2\priorityqueue2\priorityqueue2\priorityqueue2.cpp(66,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
-E:\contests div 4\round 886\contest div 2\priorityqueue2\priorityqueue2\priorityqueue2.cpp(65,32): message : while compiling class template member function 'void priorityqueue<int>::print(void)'
-E:\contests div 4\round 886\contest div 2\priorityqueue2\priorityqueue2\priorityqueue2.cpp(84,13): message : see reference to function template instantiation 'void priorityqueue<int>::print(void)' being compiled
-E:\contests div 4\round 886\contest div 2\priorityqueue2\priorityqueue2\priorityqueue2.cpp(78,24): message : see reference to class template instantiation 'priorityqueue<int>' being compiled
-  priorityqueue2.vcxproj -> E:\contests div 4\round 886\contest div 2\priorityqueue2\x64\Debug\priorityqueue2.exe
